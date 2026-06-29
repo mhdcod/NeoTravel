@@ -15,7 +15,7 @@ neotravel-v2/
 
 
 🛠️ Installation et lancement
-git clone https://github.com/ton-repo/neotravel-v2.git
+git clone https://github.com/mhdcod/NeoTravel.git 
 cd neotravel-v2
 npm install
 npm run dev
