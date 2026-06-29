@@ -1,15 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🌍 NeoTravel V3
 
-## Getting Started
+NeoTravel V3 est une application web moderne dédiée à la présentation et à la découverte d’expériences de voyage. Le projet a été conçu avec une approche orientée performance, maintenabilité et expérience utilisateur.
 
-First, run the development server:
+📁 Structure du projet
+neotravel-v2/
+│
+├── app/
+│   ├── page.tsx        # Page principale
+│   ├── globals.css     # Styles globaux
+│
+├── components/         # Composants réutilisables
+├── public/             # Assets statiques
+├── README.md
 
-```bash
+
+🛠️ Installation et lancement
+git clone https://github.com/ton-repo/neotravel-v2.git
+cd neotravel-v2
+npm install
 npm run dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Accède ensuite à : http://localhost:3000
